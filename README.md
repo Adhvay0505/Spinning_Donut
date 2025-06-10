@@ -6,7 +6,7 @@ A simple spinning donut program written in C.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Adhvay0505/Spinning-Donut.git
+git clone https://github.com/Adhvay0505/Spinning_Donut.git
 
 # Navigate to the project directory
 cd Spinning_Donut
