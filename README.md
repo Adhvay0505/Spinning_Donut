@@ -9,7 +9,7 @@ A simple spinning donut program written in C.
 git clone https://github.com/Adhvay0505/Spinning-Donut.git
 
 # Navigate to the project directory
-cd Spinning-Donut
+cd Spinning_Donut
 
 # Compile the C program
 gcc spinning_donut.c -lm
